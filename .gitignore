@@ -1,0 +1,6 @@
+app.egg-info/
+build
+logs
+*env/
+__pycache__
+.pytest_cache
